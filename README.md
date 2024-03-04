@@ -30,3 +30,12 @@ Recall: The recall score for 'spam' emails was slightly lower at approximately 8
 
 Conclusion
 Building an email spam detector using Python and machine learning techniques provides us with an effective tool to protect themselves from unwanted and potentially harmful emails. By leveraging machine learning algorithms, we can automatically classify emails into spam and non-spam categories, enhancing email security and user experience.
+
+Getting Started
+To get started with this project, follow these steps:
+
+Clone the repository to your local machine.
+Run the Jupyter notebooks to preprocess the data, train the models, and evaluate their performance.
+Experiment with different regression algorithms and hyperparameters to improve the model's accuracy.
+Deploy the trained model in a production environment for real-world use cases.
+
